@@ -1,0 +1,13 @@
+public class Main {
+  public static main void (String[]args)  ;
+    System.out.println("SeatworkFive");
+
+  int countdown = 3;
+
+  while (countdown > 3); {
+    System.out.println(countdown);
+    countdown --;
+}
+  System.out.println("Happy New Year!!");
+}
+}
